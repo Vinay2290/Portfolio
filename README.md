@@ -1,2 +1,2 @@
 # Portfolio
-Creating a portfolio showing details.
+Creating a portfolio showing personal details.
